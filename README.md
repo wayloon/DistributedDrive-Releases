@@ -2,6 +2,22 @@
 
 This repository holds the installers of Distributed Drive's **test builds**, and nothing else (no source code).
 
+## What Distributed Drive is
+
+Distributed Drive is a private drive for your files that lives on people's computers instead of in a data centre.
+
+- **Your files, encrypted on your computer:** they appear as an ordinary folder or drive letter. Before anything leaves your
+  computer it is encrypted, so the computers that store it and the service that coordinates it can never read it.
+- **Stored on other members' spare disk space:** each file is split into pieces, and every piece is kept on more than one
+  computer, so a computer that is switched off or lost does not lose your files.
+- **Share your own spare space:** you can offer some of your computer's free disk space for other members' encrypted pieces.
+
+## What these test builds are for
+
+These builds are for the people invited to test Distributed Drive before it is offered more widely: to try it with real
+files and real computers, find problems, and help shape it. Each release here is a step of that test, and installed apps
+update to it by themselves.
+
 - **Windows:** `DistributedDrive-Setup-<version>.exe`, attached to each release.
 - **Linux:** the app updates through its own package source, set up by the `.deb` you were given.
 
