@@ -23,6 +23,10 @@ update to it by themselves.
 - **Windows:** `DistributedDrive-Setup-<version>.exe`, attached to each release.
 - **Linux:** the app updates through its own package source, set up by the `.deb` you were given.
 
+## Help
+
+The apps' help, online: [English](help/README.md) · [简体中文](help/zh-Hans.md). The same help is in the app: Status › Help.
+
 ## Not ready yet
 
 These test builds do not have, yet:
@@ -30,7 +34,6 @@ These test builds do not have, yet:
 - accounts and signing in (each computer is set up on its own);
 - access from a web browser;
 - sharing files or folders with other people;
-- version history or a trash (a file's previous version is kept only about a day);
 - a Mac app.
 
 The Windows installer is not signed with a code-signing certificate yet, so Windows may warn that the publisher is
